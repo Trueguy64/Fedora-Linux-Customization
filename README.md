@@ -14,6 +14,7 @@ git clone https://github.com/powerline/fonts/blob/master/Meslo%20Dotted/Meslo%20
 ```
 ### Extensions
 For other customizations to work, you'll need a way to install extensions, which could be easily done through the extension manager:
+
 <a href="https://flathub.org/apps/details/com.mattjakeman.ExtensionManager">
 <img src="https://flathub.org/assets/badges/flathub-badge-i-en.png" width="190px" />
 </a>
