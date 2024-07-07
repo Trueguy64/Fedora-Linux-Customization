@@ -1,4 +1,5 @@
 <div align="center">
+  <p align="center"> <img src="https://github.com/Trueguy64/Udomatic-Fedora-Customization/blob/pictures/pictures/Udomatic_Logo.svg" width="128"/> </p>
   <h1 align="center">Udomatic Fedora Customization</h1>
   <p align="center">A user oriented customization for Fedora</p>
 </div>
